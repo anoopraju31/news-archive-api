@@ -1,0 +1,6 @@
+export { default as NewsNavbar } from './NewsNavbar/NewsNavbar'
+export { default as DateForm } from './DateForm/DateForm'
+// export { default as Loader } from './Loader/Loader'
+// export { default as MessageAlert } from './MessageAlert/MessageAlert'
+export { default as NewsList } from './NewsList/NewsList'
+export { default as Tags } from './Tags/Tags'
